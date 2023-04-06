@@ -5,7 +5,7 @@
 ![Profile Picture](pictures/IMG_0340.jpg)
 
 ## More About Me
-I am currently a second year **computer science student** studying at the **_University of California, San Diego_**[(UCSD)](https://ucsd.edu/). For those interested, a list of the courses I've taken so far can be found [here](#relevant-courses). In my free time I enjoy cooking, working out, ~~trading stocks~~, and tinkering with *mechanical keyboards*. I've also just recently taken up hiking and rock climbing, which have been quite *challenging*!
+I am currently a second year **computer science student** studying at the **_University of California, San Diego_** [(UCSD)](https://ucsd.edu/). For those interested, a list of the courses I've taken so far can be found [here](#relevant-courses). In my free time I enjoy cooking, working out, ~~trading stocks~~, and tinkering with *mechanical keyboards*. I've also just recently taken up hiking and rock climbing, which have been quite *challenging*!
 
 ## Status:
 - [x] Working on projects
@@ -56,12 +56,12 @@ SQL
 ### Huffman Tree Encoding
 #### Class Project for CSE 100
 - Developed a command line program to encode/decode any file using lossless Huffman Encoding
-- *<span style="color:red"> Code available upon request </span>*
+- ***<span style="color:red"> Code available upon request </span>***
 
 ### In Memory Database
 #### Programming Assignment for CSE 30
 - Developed an in memory database of NYC traffic violation tickets
-- *<span style="color:red"> Code available upon request </span>*
+- ***<span style="color:red"> Code available upon request </span>***
 
 ## Contact Me
 >You can reach me through:
@@ -69,4 +69,4 @@ SQL
 >* Discord: [OwenH#5114](discord.gg)
 >* Instagram: [@owen_h.2021](https://www.instagram.com/owen_h.2021/?next=%2F)
 
-[Where does this take me?](/page.md)
+<sub>[Where does this take me?](/page.md)</sub>
