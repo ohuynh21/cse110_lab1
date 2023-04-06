@@ -1,11 +1,11 @@
 # Welcome to My User Page
 
-#### Hi! My name is **Owen** and I am an aspiring software engineer.
+#### Hi! My name is Owen and I am an aspiring software engineer.
 
 ![Profile Picture](pictures/IMG_0340.jpg)
 
 ## More About Me
-I am currently a second year computer science student studying at the University of California, San Diego [(UCSD)](https://ucsd.edu/). For those interested, a list of the courses I've taken so far can be found [here](#relevant-courses). In my free time I enjoy cooking, working out, trading stocks, and tinkering with mechanical keyboards. I've also just recently taken up hiking and rock climbing, which have been quite challenging!
+I am currently a second year **computer science student** studying at the **_University of California, San Diego_**[(UCSD)](https://ucsd.edu/). For those interested, a list of the courses I've taken so far can be found [here](#relevant-courses). In my free time I enjoy cooking, working out, ~~trading stocks~~, and tinkering with *mechanical keyboards*. I've also just recently taken up hiking and rock climbing, which have been quite *challenging*!
 
 ## Status:
 - [x] Working on projects
